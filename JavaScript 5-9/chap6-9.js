@@ -61,7 +61,7 @@ document.write("<table border='0'><tr><th>Subject</th><th>Total Marks</th><th>Ob
 document.write("<tr><td>" + subject1 + "</td><td>" + totalMarks + "</td><td>" + obtainedMarks1 + "</td><td>" + percentage +"</td></tr>");
 document.write("<tr><td>" + subject2 + "</td><td>" + totalMarks + "</td><td>" + obtainedMarks2 + "</td><td>" + percentage + "</td></tr>");
 document.write("<tr><td>" + subject3 + "</td><td>" + totalMarks + "</td><td>" + obtainedMarks3 + "</td><td>" + percentage + "</td></tr>");
-document.write("<tr><td>Total</td><td>" + (totalMarks * 3) + "</td><td>" + totalObtained + "</td><td>Percentage</td><td colspan='2'>" + percentage + "%</td></tr>");
+document.write("<tr><td>Total</td><td>" + (totalMarks * 3) + "</td><td>" + totalObtained + "</td><td>Percentage</td><td colspan='1'>" + percentage + "%</td></tr>");
 
 
 
